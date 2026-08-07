@@ -15,3 +15,6 @@ Defensor de primera linea. Su armadura le permite resistir ataques fuertes y pro
 ## Viento Norte
 
 Heroina veloz que controla corrientes de aire. Es ideal para exploracion y apoyo rapido.
+
+* linterna verde
+* Robin

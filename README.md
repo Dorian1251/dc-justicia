@@ -9,7 +9,7 @@ Pequeno repositorio de practica para organizar informacion sobre heroes, misione
 - `ciudades.md`: lugares importantes del mundo del proyecto.
 - `historia/linea-tiempo.md`: eventos ordenados en forma de lista.
 
-# objetivos del repositorio principal
+# objetivos del repositorio principal liga de a justicia
 
 este es un repositorio de la liga de la justicia 
 

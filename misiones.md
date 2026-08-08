@@ -12,6 +12,7 @@ Sombra Azul investiga la desaparicion de documentos importantes relacionados con
 
 Titan de Acero y Guardian Solar deben evitar que el puente principal sea destruido.
 
-## Mision 4: Patrulla nocturna
+## Mision 4: Patrulla nocturna que luchen por la justicia.
+4. Buscar comida para ellos.
 
 Viento Norte recorre la ciudad para detectar amenazas antes de que se conviertan en crisis.

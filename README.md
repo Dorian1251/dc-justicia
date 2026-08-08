@@ -11,4 +11,4 @@ Pequeno repositorio de practica para organizar informacion sobre heroes, misione
 
 ## Idea general
 
-El proyecto imagina un universo de heroes que protegen distintas ciudades mientras cumplen misiones para mantener el equilibrio y la seguridad.
+este es un repositorio de la liga de la justicia 

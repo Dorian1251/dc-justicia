@@ -5,5 +5,7 @@
 4. Doomsday
 5.loki
 
+##actualizado desde hit hub 
+
 # Notas
 

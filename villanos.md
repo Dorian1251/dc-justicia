@@ -4,6 +4,7 @@
 3. FLash Reverso 
 4. Doomsday
 5.loki
+6.harley quin 
 
 ##actualizado desde hit hub 
 

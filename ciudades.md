@@ -12,6 +12,3 @@ Ciudad costera con actividad comercial. Es vulnerable a ataques por mar y contra
 
 Ciudad moderna llena de rascacielos, energia avanzada y sistemas automatizados.
 
-## Fortaleza Norte
-
-Zona fria y defensiva donde se guardan archivos historicos y equipo especial del grupo.
